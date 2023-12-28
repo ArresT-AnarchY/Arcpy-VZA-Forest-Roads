@@ -26,8 +26,8 @@ Bu sistem Arcmap10.8 ile test edilmiştir.
 Örnek:
 ![Screenshot of Module](https://tahayasin.com/VZA_DEA/kurulum.jpg)
 
-5. Ardından B sekmesinden başlamak üzere, tüm girdi ve çıktı değişkenlerin hesaplama kısmı için modüller çalıştırılır.
-6. En son aşamada yeniden script file tanımlaması yapılır ve Direkt veri zarflama analizine geçilir.
+5. Ardından B sekmesinden başlamak üzere, tüm girdi ve çıktı değişkenlerinin hesaplama kısmı için modüller çalıştırılır.
+6. En son aşamada yeniden script file tanımlaması yapılır ve direkt veri zarflama analizine geçilir.
 
 # Ekolojik senaryo değişkenler
 
