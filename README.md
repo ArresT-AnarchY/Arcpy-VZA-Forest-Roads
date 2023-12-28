@@ -21,7 +21,7 @@ Bu sistem Arcmap10.8 ile test edilmiştir.
 1. Arcpy GIS model dosyası içerisinde herhangi bir senaryo verilerine giriş yapılır.
 2. Arcmap açılır.
 3. ArcCatalog içerisinden .tbx uzantılı dosya açılır. 
-4. Kurulum gerektiren modüller ilk ve son modüllerdir. Bu nedenle, İlk veya son modüle sağ tıklanır ve properties seçilir. Çıkan ekranda "script file" kısmında dosyalarda bulunan .py uzantılı kod dosyası seçilir. "Arcpy GIS model" klasöründe uygun senaryonun içerisinde bulunan aynı isimli ".py uzantılı kod dosyası" seçilir.
+4. Kurulum gerektiren modüller ilk ve son modüllerdir. Bu nedenle, İlk veya son modüle sağ tıklanır ve properties seçilir. Çıkan ekranda "script file" kısmında "Arcpy GIS model" klasöründe uygun senaryonun içerisinde bulunan aynı isimli ".py uzantılı kod dosyası" seçilir.
 
 Örnek:
 ![Screenshot of Module](https://tahayasin.com/VZA_DEA/kurulum.jpg)
