@@ -1,0 +1,231 @@
+Abbasi, M., Piccioni, C., Sierpiński, G. ve Farzin, I. 2022. "Analysis of Crash Severity of Texas Two Lane Rural Roads Using Solar Altitude Angle Based Lighting Condition". Sustainability, 14(3), 1692.
+Acar, H. H. 2005. "Orman Yolları". Trabzon: Karadeniz Teknik Üniversitesi Ders Teksirleri Serisi:82.
+Acar, H. H. 2015. "Environmental sensitive road planning and transportation techniques in forest engineering". İstanbul Üniversitesi Orman Fakültesi Dergisi, 66(2).
+Acar, H. H. ve Ünver, S. 2007. "Mevcut Orman Yollarının Puanlandırılması Ve Değerlendirilmesi". Orman Mühendisleri Odası Yayın Organı, (10-11-12), 37-39,.
+Acer, A. 2021. "Lojistik Faaliyetlerde Antrepoların Etkinliğinin Veri Zarflama Analizi ile Belirlenmesi (Determining the Efficiency of Entrepots in Logistics Activities by Data Envelopment Analysis)". Journal of Business Research - Turk, 4(13), 2976-2989.
+Ada, N. 2011. "Orman yollarının kalite değerlendirmesine yönelik ölçüt ve göstergelerin belirlenmesi". Süleyman Demirel Üniversitesi Fen Bilimleri Enstitüsü Orman Mühendisliği Ana Bilim Dalı, Isparta.
+Ahmed, S. E., Lees, A. C., Moura, N. G., Gardner, T. A., Barlow, J., Ferreira, J. ve Ewers, R. M. 2014. "Road networks predict human influence on Amazonian bird communities". Proceedings of the Royal Society B: Biological Sciences, 281(1795), 20141742.
+Akay, A. E. 2006. "Minimizing total costs of forest roads with computer-aided design model". Sadhana. Corvallis: Oregon State University.
+Akay, A. E. ve Sessions, J. 2005. "Applying the Decision Support System, TRACER, to Forest Road Design". Western Journal of Applied Forestry, 20(3), 184-191.
+Akay, A. O. 2023. "Wood harvesting efficiency analysis of regional forest directorates in Turkey: k-means clustering and data envelopment analysis approach". International Journal of Forest Engineering, 34(2), 176-189.
+Akbarimehr, M. ve Naghdi, R. 2012. "Reducing erosion from forest roads and skid trails by management practices". Journal of Forest Science, 58(4), 165-169.
+Akdemir, D. ve Özdemir, İ. 2015. "Batı Akdeniz Bölgesi’ndeki kızılçam ormanlarında uygulanan tıraşlama kesimlerinin kuşlar üzerindeki etkileri". Turkish Journal of Forestry | Türkiye Ormancılık Dergisi, 16(2).
+Akdemir, N. 2022. "Kocaeli’nin Gastronomi Turizmi Potansiyeli Üzerine Bir İnceleme". Şura Akademi, 1, 91-103.
+Aksu, H. S., Güneş, S. G. ve Kaya, A. 2022. "Covid-19 Küresel Salgını Sürecinde Rekreasyona Aktif Katılımın Yalnızlık Algısına Etkisi (The Effect of Active Participation in Recreation on Perception of Loneliness During the Covid-19 Global Epidemic)". Turk Turizm Arastirmalari Dergisi, 2(5), 83-97.
+Akten, S. ve Yücedağ, C. 2022. "Investigation of park and house gardens in Çünür Neighborhood, Isparta in terms of landscape design". Artvin Çoruh Üniversitesi Orman Fakültesi Dergisi, 23(1), 51-64.
+Akyıldız, H. 2001. "İşletmelerde Motivasyon-Verimlilik İlişkisi Devlet Hava Meydanları İşletmesi Antalya Havalimanı Çalışanları Arasında Bir Örnek Olay Araştırması" (mathesis). Süleyman Demirel Üniversitesi, Sosyal Bilimler Enstitüsü, Isparta.
+Apaydın, H. ve Öztürk, F. 1997. "Sulama Şebekelerindeki Sanat Yapılarının Yeterliliğinin Belirlenmesi". Tarım Bilimleri Dergisi, 3(2), 52-58.
+Aricak, B. 2015. "Using remote sensing data to predict road fill areas and areas affected by fill erosion with planned forest road construction: a case study in Kastamonu Regional Forest Directorate (Turkey)". Environmental Monitoring and Assessment, 187(7), 1-10.
+Arslan, A. 2002. "Kamu Harcamalarında Verimlilik, Etkinlik ve Denetim". Maliye Dergisi, 140, 2, 1-14.
+Asker, V. 2021. "Havayolu İşletmelerinde İki Aşamalı Veri Zarflama Analizi İle Etkinlik Ölçümü". MANAS Sosyal Araştırmalar Dergisi, 10(4), 2373-2385.
+Avcı, M. ve Boz, K. 2017. "Fire Problem, Distribution of Fires and Analysis of Important Fires in Mersin-Gülnar Forests". Turkish Journal of Forestry | Türkiye Ormancılık Dergisi, 18(2), 160-170.
+Aydemir, Z. C. 2002. "Bölgesel Rekabet Edebilirlik Kapsamında İllerin Kaynak Kullanım Görece Verimlilikleri: Veri Zarflama Analizi Uygulaması". Uzmanlık Tezleri. DPT, Ankara.
+Aydın, F. ve Demir, A. 2021. "Endangered species in Turkey: A specific review of endangered Fabaceae species with IUCN Red List data". Turkish Journal of Biodiversity, 4(1), 53-65.
+Aydin, M. M. ve Topal, A. 2019. "Effects of Pavement Surface Deformations on Traffic Flow". Transport, 34(3), 204-214.
+Aykut, T. ve Demir, M. 2005. "Türkiye’de orman yollarının durumu, değerlendirilmesi ve önemi". İstanbul Üniversitesi Orman Fakültesi Dergisi, 55(1), 37-51.
+Banker, R. D., Charnes, A., Cooper, W. W. ve Maindiratta, A. 1988. "A Comparison of DEA and Translog Estimates of Production Frontiers Using Simulated Observations from a Known Technology". İçinde Applications of Modern Production Theory: Efficiency and Productivity (ss. 33-55). Springer Netherlands.
+Barth, M. ve Boriboonsomsin, K. 2009. "Energy and emissions impacts of a freeway-based dynamic eco-driving system". Transportation Research Part D: Transport and Environment, 14(6), 400-410.
+Bayoğlu, S. 1965. "Türkiye’de orman yol Şebekelerinin tanzimine ait esaslar". Orman Genel Müdürlüğü Yayın, (425/24).
+Bayoğlu, S. ve Seçkin, Ö. B. 1982. "Forest Road Construction Work and Benefits in Turkey". İstanbul University Faculty of Forestry Publication ID:2883/307, İstanbul.
+Bayramoğlu, M. ve Toksoy, D. 2017. "Veri zarflama analizinin ormancılıkta kullanımı". Turkish Journal of Forestry | Türkiye Ormancılık Dergisi, 18(1), 82-82.
+Baysal, İ., Uçarlı, Y. ve Bilgili, E. 2017. "Forest Fires and Birds". Kastamonu Üniversitesi Orman Fakültesi Dergisi, 543-553.
+Benítez-López, A., Alkemade, R. ve Verweij, P. A. 2010. "The impacts of roads and other infrastructure on mammal and bird populations: A meta-analysis". Biological Conservation, 143(6), 1307-1316.
+Bergès, L., Chevalier, R. ve Avon, C. 2012. "Influence of forest road, road‐surfacing material and stand age on floristic diversity and composition in a nutrient‐poor environment". Applied Vegetation Science, 16(3), 470-479.
+Bicknell, J. E., Struebig, M. J., Edwards, D. P. ve Davies, Z. G. 2014. "Improved timber harvest techniques maintain biodiversity in tropical forests". Current Biology, 24(23), R1119-R1120.
+Bilici, E. 2009. "Orman Yangın Emniyet Yolları ve Şeritleri ile Orman Yol Şebekelerinin Entegrasyonu, Planlamaları ve Uygulamaları Üzerine Bir Araştırma (Gelibolu Milli Parkı Örneği)". Journal of the Faculty of Forestry Istanbul University, 59(2), 85-101.
+Bjorklund, E. 2006. "Environmental Statement 2005, Wood Supply Europe Report". Stora Enso Forest Product, Sweden.
+Blake, S., Strindberg, S., Boudjan, P., Makombo, C., Bila-Isia, I., Ilambu, O., … Maisels, F. 2007. "Forest Elephant Crisis in the Congo Basin". PLoS Biology, 5(4), e111.
+Bont, L. G., Fraefel, M. ve Fischer, C. 2018. "A Spatially Explicit Method to Assess the Economic Suitability of a Forest Road Network for Timber Harvest in Steep Terrain". Forests, 9(4), 169.
+Buchanan, B. P., Falbo, K., Schneider, R. L., Easton, Z. M. ve Walter, M. T. 2012. "Hydrological impact of roadside ditches in an agricultural watershed in Central New York: implications for non‐point source pollutant transport". Hydrological Processes, 27(17), 2422-2437.
+Budzyński, M. ve Bruski, D. 2018. "Assessing vehicle restraint systems on horizontal curves". MATEC Web of Conferences, 231, 01004.
+Buys, P., Deichmann, U. ve Wheeler, D. 2010. "Road Network Upgrading and Overland Trade Expansion in Sub-Saharan Africa". Journal of African Economies, 19(3), 399-432.
+Calvi, A., Benedetto, A. ve D’Amico, F. 2015. "Driver reaction time to avoid collisions during a mobile phone conversation". Içinde Proceedings of 2015 Road Safety & Simulation International Conference (ss. 690-701). Orlando, USA.
+Cao, L., Zhang, K., Dai, H. ve Liang, Y. 2013. "Modeling Interrill Erosion on Unpaved Roads in the Loess Plateau of China". Land Degradation &amp; Development, 26(8), 825-832.
+Castañeda, J. E. G. ve Hernandez, G. M. V. 2017. "Arquitectura para la automatización del proceso de carga de información geográfica exigida en los informes de cumplimiento ambiental -ICA- : caso de estudio Colombia". Ingenierías USBMed, 8(1), 12-18.
+Cesur, İ. ve Bulut, A. 2023. "A review on the decisions of the Supreme Court of Appeals regarding the crime of forest burning in Türkiye". Ormancılık Araştırma Dergisi, 10(1), 90-104.
+Charnes, A., Cooper, W. W. ve Rhodes, E. 1981. "Evaluating Program and Managerail Effıciency: An Application of Data Envolopment Analysis To Program Follow Through". Management Science, 27. 6(6), 668-697.
+Charnes, Abraham, Cooper, W. W., Lewin, A. Y. ve Seiford, L. M. 1994. "Basic DEA Models". Içinde Data Envelopment Analysis: Theory, Methodology, and Applications (ss. 23-47). Springer Netherlands.
+Clements, G. R., Lynam, A. J., Gaveau, D., Yap, W. L., Lhota, S., Goosem, M., … Laurance, W. F. 2014. "Where and How Are Roads Endangering Mammals in Southeast Asia’s Forests?". PLoS ONE, 9(12), e115376.
+Coelli, T., Rao, D. S. P. ve Battese, G. E. 1998. "An Introduction to Efficiency and Productivity Analysis" (Second). New York.,331 s: Springer US.
+Coffin, A. W. 2007. "From roadkill to road ecology: A review of the ecological effects of roads". Journal of Transport Geography, 15(5), 396-406.
+Çalışkan, E. 2013. "Planning of forest road network and analysis in mountainous area". Life science journal, 10(2), 2456-2465.
+Çalışkan, E. ve Karahalil, U. 2017. "Evaluation of forest road network and determining timber extraction system using GIS: a case study in Anbardağ planning unit". Šumarski List, 141(3–4), 163-171.
+Çekin, İ. 1999. "Veri zarflama yönteminin uygulamaya hazırlanması". MPM Verimlilik Ölçme ve İzleme Bölümü, Ankara.
+Çellek, S. 2022. "The Effect of Aspect on Landslide and Its Relationship with Other Parameters". Içinde Landslides. IntechOpen.
+Çetinkaya, D. 2023. "Ağaçlandırma çalışmalarında fidan kalitesinin hayatta kalmaya etkisi". Theoretical and Applied Forestry, 1(1), 5-8.
+Çoban, H. O. ve Gündoğdu, Ş. 2020. "GIS-based determination of forest area changes: Case study in Çamsu Forest Sub-district". Turkish Journal of Forestry | Türkiye Ormancılık Dergisi, 60-69.
+De Luca Cardillo, D. ve Fortuna, T. 2000. "A DEA model for the efficiency evaluation of nondominated paths on a road network". European Journal of Operational Research, 121(3), 549-558.
+Delgado, J. D., Arroyo, N. L., Arévalo, J. R. ve Fernández-Palacios, J. M. 2007. "Edge effects of roads on temperature, light, canopy cover, and canopy height in laurel and pine forests (Tenerife, Canary Islands)". Landscape and Urban Planning, 81(4), 328-340.
+Delikdaş, E. 2002. "Türkiye Özel Sektör İmalat Sanayinde Etkinlik ve Toplam Faktör Verimliliği Analizi". ODTÜ Geliştirme Dergisi, 29(3–4), 247-284.
+Deljouei, A., Abdi, E., Marcantonio, M., Majnounian, B., Amici, V. ve Sohrabi, H. 2017. "The impact of forest roads on understory plant diversity in temperate hornbeam-beech forests of Northern Iran". Environmental Monitoring and Assessment, 189(8), 1-15.
+Demir, M. 2007. "Impacts, management and functional planning criterion of forest road network system in Turkey". Transportation Research Part A: Policy and Practice, 41(1), 56-68.
+Deniz, N. 2009. "Türkiye’deki İllerin Kaynak Kullanımlarına Göre Göreli Etkinliklerinin Klasik ve Bulanık Veri Zarflama Analizi Yöntemleri İle Belirlenmesi". Yüksek Lisans Tezi, Anadolu Üniversitesi, Fen Bilimleri Enstitüsü, Eskişehir.
+Depren, Ö. 2008. "Veri zarflama analizi ve bir uygulama,". Yıldız Teknik Üniversitesi / Fen Bilimleri Enstitüsü, İstatistik Bölümü, İstatistik Ana Bilim Dalı.
+Dilekçi, S., Marangoz, A. M. ve Ateşoğlu, A. 2021. "Zonguldak ve Ereğli Orman İşletme Müdürlükleri Orman Yangını Risk Alanlarının Belirlenmesi". Geomatik, 6(1), 44-53.
+Dizkırıcı, A. S. 2014. "Borsa İstanbul Gıda, İçecek Endeksine Kote İşletmelerin Finansal Performanslarının Veri Zarflama Analizi ile Ölçümü ve Malmquist Endeksine Göre Karşılaştırılması". Muhasebe ve Finansman Dergisi, 63(63), 151-170.
+Durusoy, E. ve Mutuş, R. 2021. "Yeşil Egzersizin Kronik Ağrıya, Fiziksel ve Mental Sağlığa Etkileri". İstanbul Gelişim Üniversitesi Sağlık Bilimleri Dergisi, 14(14), 351-362.
+Edwards, F. A., Finan, J., Graham, L. K., Larsen, T. H., Wilcove, D. S., Hsu, W. W., … Hamer, K. C. 2017. "The impact of logging roads on dung beetle assemblages in a tropical rainforest reserve". Biological Conservation, 205, 85-92.
+Eker, A. H. H., M. ve Çoban, H. O. 2010. "The potential ecological impacts of forest roads". Turkish Journal of Forestry, 11(ue: 1, ISSN), 1302-7085, 109-125.
+Eker, M. 2004. "Ormancılıkta Odun Hammaddesi Üretiminde Operasyonel Planlama Modelinin Geliştirilmesi" (Doktora Tezi). Karadeniz Teknik Üniversitesi, Fen Bilimleri Enstitüsü, Trabzon.
+Eker, M. 2020. "Assessment on skidding roads and densities". Turkish Journal of Forestry | Türkiye Ormancılık Dergisi, 21(4), 396-406.
+Eker, O. ve Abdurrahmanoğlu, D. 2022. "Kahramanmaraş orman bölge müdürlüğü’nde orman yangin söndürme eki̇pleri̇ni̇n i̇ş tatmi̇ni̇ üzeri̇ne bi̇r araştirma". Turkish Journal of Forest Science, 6(1), 339-359.
+Eker, R. ve Aydın, A. 2016. "Landslide Susceptibility Assessment of Forest Roads". Eur J Forest Eng 2.
+Erdaş O. 1997. "Orman Yolları". , Orman Fakültesi, Yayın No: 187/25-188/26 Cilt I-II, Trabzon: Karadeniz Teknik Üniversitesi.
+Evin, H. ve Özdemir, A. 2022. "Büyükşehirlerin Katı Atık Yönetimi Etkinliğinin Veri Zarflama Analizi Kullanılarak Ölçülmesi". Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, 42, 422-454.
+Ewan, L., Al-Kaisy, A. ve Hossain, F. 2016. "Safety effects of road geometry and roadside features on low-volume roads in oregon". Transportation Research Record Journal of the Transportation Research Board, 2580(1), 47-55.
+Fraefel, M., Bont, L. G. ve Fischer, C. 2021. "Spatially explicit assessment of forest road suitability for timber extraction and hauling in Switzerland". European Journal of Forest Research, 140(5), 1195-1209.
+Fransen, P. J. B., Phillips, C. J. ve Fahey, B. D. 2001. "Forest road erosion in New Zealand: overview". Earth Surface Processes and Landforms, 26(2), 165-174.
+Garnero, G. ve Vigna, I. 2018. "The potential use of GIS in silviculture". Journal of Agricultural Science and Technology B, 11(5), 667-679.
+Gaveau, D., Sloan, S., Molidena, E., Yaen, H., Sheil, D., Abram, N. ve Meijaard, E. 2014. "Four decades of forest persistence, clearance and logging on borneo". Plos One, 9(7), 101654.
+Girardin, P., Valeria, O. ve Girard, F. 2022. "Measuring spatial and temporal gravelled forest road degradation in the boreal forest". Remote Sensing, 14(3), 457.
+Goetz, J., Guthrie, R., Brenning, A., Gorsevski, P., Gessler, P., Foltz, R. ve Elliot, W. 2015. "Forest harvesting is associated with increased landslide activity during an extreme rainstorm on vancouver island, canada". Natural Hazards and Earth System Science, 15(6), 1311-1330.
+Gold, C. M. 2020. "Surface interpolation, spatial adjacency and GIS". Içinde Three dimensional applications in Geographical Information Systems (ss. 21-35). CRC Press.
+Gorsevski, P. V., Gessler, P. E., Foltz, R. B. ve Elliot, W. J. 2006. "Spatial Prediction of Landslide Hazard Using Logistic Regression and ROC Analysis". Transactions in GIS, 10(3), 395-415.
+Grace, J. ve Clinton, B. 2007. "Protecting soil and water in forest road management". Transactions of the Asabe, 50(5), 1579-1584.
+Grigolato, S. 2019. "Considerations on forest road networks and related works to support the implementation of the operative guidelines of the consolidate law on forests and forest chains".
+Groß, F. ve Donnell, E. 2011. "Case–control and cross-sectional methods for estimating crash modification factors: comparisons from roadway lighting and lane and shoulder width safety effect studies". Journal of Safety Research, 42(2), 117-129.
+Gucinski, H., Furniss, M. J., Ziemer, R. R. ve Brookes, M. H. 2001. "Forest roads: a synthesis of scientific information" (C. 509). Forest Service: US Department of Agriculture.
+Gülci, S., Akgül, M., Gülci, N. ve Demir, M. 2021. "Orman yolu güzergahlarının belirlenmesinde farklı tekniklerle üretilmiş sayısal arazi modellerinin kullanılması üzerine bir araştırma". Bartın Orman Fakültesi Dergisi, 23(2), 654-667.
+Gümüş, S. 2009. "Constitution of the forest road evaluation form for Turkish forestry". African Journal of Biotechnology, 8(20).
+Gümüş, S. 2017. "An Evaluation of Stakeholder Perception Differences in Forest Road Assessment Factors Using the Analytic Hierarchy Process (AHP". Forests, 8(165), 1-9,.
+Gümüş, S., Acar, H. H. ve Toksoy, D. 2007. "Functional forest road network planning by consideration of environmental impact assessment for wood harvesting". Environmental Monitoring and Assessment, 142(1-3), 109-116.
+Gümüş, S., Ünver, S. ve Hatay, T. Y. 2019. "An Evaluation of General Situation and Importance of Forest Roads: Turkish Forestry". 2nd International Symposium of Forest Engineering and Technologies,(FETEC-2019), Tirana, Albania.
+Gündüz, O. 2015. "Bulanık veri zarflama ile kuru kayısı yetiştiren işletmelerin etkinlik analizi". Tarım Bilimleri Dergisi, 21(4), 525-537.
+Hansen, M. C., Potapov, P. V., Moore, R., Hancher, M., Turubanova, S. A., Tyukavina, A., … Townshend, J. R. G. 2013. "High-resolution global maps of 21st-century forest cover change". Science, 342(6160), 850-853.
+Hatay, T. Y. 2014. "Doğu Karadeniz Bölgesinde bölmeden çıkarmada kullanılabilecek uygun bir orman hava hattına ait bazı teknik özelliklerin belirlenmesi" (Master’s Thesis). Orman Mühendisliği Ana Bilim Dalı, Trabzon.
+Hatipoğlu, İ. K. ve Uzun, A. 2020. "Temporal and spatial change of land use in middle and lower catchment of melet river (ordu". Mavi Atlas, 8(1), 154-168.
+Hayati, E., Majnounian, B. ve A., ve E. 2012. "Qualitative evaluation and optimization of forest road network to minimize total costs and environmental impacts". Iforest - Biogeosciences and Forestry, 5(1), 121-125.
+Heidari, M., Najafi, A. ve Borges, J. 2022. "Introducing new index in forest roads pavement management system".
+Heinrichs, S., Pauchard, A. ve Schall, P. 2018. "Native plant diversity and composition across a pinus radiata d.don plantation landscape in south-central chile—the impact of plantation age, logging roads and alien species". Forests, 9(9), 567.
+Hervé, D. ve Vidal, S. 2007. "Plant biodiversity and vegetation structure in traditional cocoa forest gardens in southern cameroon under different management". Biodiversity and Conservation, 17(8), 1821-1835.
+Hoch, I. ve Johnston, J. 1962. "Statistical Cost Analysis". Econometrica, 43, 2(2), 477-480.
+Horst, R. ve Ridder, S. 2007. "Influence of roadside infrastructure on driving behavior: driving simulator study". Transportation Research Record, 2018(1), 36-44.
+Hosseini, S. A., Mazrae, M. R., Lotfalian, M. ve Parsakhoo, A. 2012. "Designing an optimal forest road network by consideration of environmental impacts in GIS". Journal of Environmental Engineering and Landscape Management, 20(1), 58-66.
+Hosseini, S. A. O., Gorgandipur, M. ve Nikooy, M. 2018. "Forest road network assessment using lookout points orienting in Hyrcanian forest using GIS–Short Communication". Journal of Forest Science, 64(9), 402-408.
+Hruza, P. 2003. "Optimization of forest road network under principles of functionally integrated forest management". Journal of Forest Science, 49(9), 439-443.
+Hseu, J. S. ve B. ve J. 1995. "Producer Behavior and Technology in the Pulp and Paper Industries of the United States and Canada: A Nonparametric Analysis, Forest Science".
+Huang, W., Zhu, H., Wu, Z., Yin, X., Huo, Q., Jia, K. ve Zhang, Y. 2020. "Investigation of negative dibl effect and miller effect for negative capacitance nanowire field-effect-transistors". IEEE Journal of the Electron Devices Society, 8, 879-884.
+Işık, K. C. ve Koç, I. 2018. "Hazır Beton Üretimi Yapan İşletmelerin Etkinliklerinin Veri Zarflama Analizi Yöntemiyle Belirlenmesi". Gazi İktisat ve İşletme Dergisi, 4(1), 10-24.
+Jacyna, M. ve Wasiak, M. 2015. "Costs of road transport depending on the type of vehicles". Combustion Engines, 162(3), 85-90.
+Jeong, E., Cho, M., Cho, H., Cho, B. ve Han, S. 2021. "Characteristics of forest road cut slopes affecting the movement of mammals in south korea". Forest Science and Technology, 17(3), 155-161.
+Jiang, Z., Song, X., Xu, J., Zhu, J., Zhang, L. ve Zhang, H. 2019. "Analysis of forestry activities based on GIS and RS technology". IOP Conference Series: Earth and Environmental Science, 236(4), 042008.
+Jibrillah, A. M., Eniolorunda, B. G. A., N. B. ve Ahmad, D. 2023. "Monitoring the the Impacts of Climate Change and Variability on the Phenology of Natural Vegetation Using 250m MODIS-NDVI Satellite Data: Cace Study of the Dryland Ecosystem of Sokoto, North-Westra Nigeria". The Indonesian Journal of Geography, 55(1), 51-58.
+Kao, C. 1998. "Measuring the Effİciency of Forest Districts with Multiple Working Circles". Journal of the Operational Research Society, 49, 6(6), 583-590.
+Kao, C. 2000. "Measuring the Performance Improvement of Taiwan Forests After Reorganization, Forest Science,46".
+Kao, C. ve Yang, Y. 1991. "Measuring the Effıciency of Forest Management". Forest Science, 37, 5,1239-1252.
+Kapluhan, E. 2014. "The Importance and Necessity of the Use of Geographic Information System (GIS) In Geography Teaching". Marmara Geographical Review, 29, 34-59.
+Kaptan Ayhan, Ç. 2019. "Ayazmapınarı Tabiat Parkı’nın (Bayramiç, Çanakkale) Rekreasyonel Potansiyelinin Belirlenmesi Üzerine Bir Araştırma". ÇOMÜ Ziraat Fakültesi Dergisi, 7(1), 219-228.
+Kaptan, S. 2021. "Arazi örtüsü ile meşcere gelişim çağı ve kapalılığı kategorilerindeki zamansal değişimlerin incelenmesi: karabiga orman i̇şletme şefliği örneği". Turkish Journal of Forestry | Türkiye Ormancılık Dergisi, 97-104.
+Kara, O., Kayacan, B. ve E., ve M. 2013. "Düzce İli Devlet Orman İşletme Müdürlüklerinin Parametrik Olmayan Yöntemlerle Etkinliğinin Analizi". Ekonomik ve Sosyal Araştırmalar Dergisi, 9,1, 97-123.
+Kastridis, A. 2020. "Impact of Forest Roads on Hydrological Processes". Forests, 11(11), 1201.
+Kaya, M. ve Uzun, O. 2019. "Ekosistem hizmetleri ve mekânsal planlama i̇lişkisinin peyzaj planlama çerçevesinde değerlendirilmesi". Düzce Üniversitesi Bilim Ve Teknoloji Dergisi, 7(3), 2166-2193.
+Kaynar, O. 2004. "Veri Zarflama Analizi ve Göreceli Etkinlik Analizi Üzerine Bir Uygulama, Doktora Tezi, Cumhuriyet Üniversitesi, Sosyal Bilimler Enstitüsü". Sivas.
+Kazama, V. S., Corte, A. P. D., Robert, R. C. G., Sanquetta, C. R., Arce, J. E., Oliveira-Nascimento, K. A. ve DeArmond, D. 2021. "Global review on forest road optimization planning: Support for sustainable forest management in Amazonia". Forest Ecology and Management, 492, 119159.
+Kecek, G. 2010. "Veri Zarflama Analizi Teori ve Uygulama Örneği, Siyasal Kitapevi". Ankara.
+Kinali, T., Erol, U. ve Kaya, L. 2020. "Isparta-i̇slamköy örneğinde arazi toplulaştırma çalışmalarının mekansal olarak değerlendirilmesi". Mehmet Akif Ersoy Üniversitesi Fen Bilimleri Enstitüsü Dergisi, 11(2), 150-163.
+Kleinschroth, F. ve Healey, J. 2017. "Impacts of logging roads on tropical forests". Biotropica, 49(5), 620-635.
+Kohmori, H. 2019. "Forest roads cause edge effects on plant species diversity in artificial forests". International Journal of Geomate, 17(61).
+Kolkos, G., Stergiadou, A., Kantartzis, A., Tampekis, S. ve Arabatzis, G. 2023. "Effects of forest roads and an assessment of their disturbance of the natural enviroment based on gis spatial multi-criteria analysis: case study of the university forest of taxiarchis, chalkidiki, greece". Euro-Mediterranean Journal for Environmental Integration, 8(2), 425-440.
+Kordani, A., Shirini, B. ve Yazdani, M. 2019. "The effect of road shoulder and weather conditions on the occurrence of rollover crashes in two-lane highways". Periodica Polytechnica Civil Engineering.
+Korkmaz, M. 2011. "Measuring The Productİve Efficiency Of Forest Enterprises in Mediterranean Region Of Turkey Using Data Envelopment Analysis". Afflcan Journal of Agricultural Research, 6. 19, 4522-4532.
+Kovalčík, M. 2018. "Efficiency of the slovak forestry in comparison to other european countries: an application of data envelopment analysis". Central European Forestry Journal, 64(1), 46-54.
+Köroğlu, K. 1993. "Verimlilik Yönetimine Japon Yaklaşımı ve Kazukiyo Kurosawa Modeli". MPM Yayınları, Yayın No, 507, 272.
+Kunert, N., Aparecido, L., Higuchi, N., Santos, J. ve Trumbore, S. 2015. "Higher tree transpiration due to road-associated edge effects in a tropical moist lowland forest". Agricultural and Forest Meteorology, 213, 183-192.
+Küçükosmanoğlu, A. ve Hasdemir, M. 1991. "Importance of fire safety roads and lanes in forest road networks, Forestist".
+Li, H., Luo, P., Luo, C., Xie, W., Jia, H., Cheng, Y. ve Huang, Y. 2022. "Assessing the effect of roads on mountain plant diversity beyond species richness". Frontiers in Plant Science, 13.
+Lin, Y., Chen, W. ve Liu, J. 2021. "Research on the temporal and spatial distribution and influencing factors of forestry output efficiency in china". Sustainability, 13(9), 4687.
+Ling, H. ve Huang, B. 2021. "Research on torque distribution of four-wheel independent drive off-road vehicle based on PRLS road slope estimation". Mathematical Problems in Engineering, 2021, 1-11.
+Liu, S., Wang, J. ve Fu, T. 2016. "Effects of lane width, lane position and edge shoulder width on driving behavior in underground urban expressways: a driving simulator study". International Journal of Environmental Research and Public Health, 13(10), 1010.
+Lu, C., Wu, X., Chen, X. ve Yang, C. 2020. "The energy efficiency and public health in the asean plus three cooperation". INQUIRY: The Journal of Health Care Organization, Provision, and Financing, 57, 004695802093566.
+Luce, C. 2002. "Hydrological processes and pathways affected by forest roads: what do we still need to learn?". Hydrological Processes, 16(14), 2901-2904.
+Luce, C. ve Black, T. 1999. "Sediment production from forest roads in western oregon". Water Resources Research, 35(8), 2561-2570.
+Lugo, A. E. ve Gucinski, H. 2000. "Function, effects, and management of forest roads". Forest Ecology and Management, 133(3), 249-262.
+Lundmark, R., Lundgren, T., Olofsson, E. ve Zhou, W. 2021. "Meeting challenges in forestry: Improving performance and competitiveness". Forests, 12(2), 208.
+Marsh, D. ve Beckman, N. 2004. "Effects of forest roads on the abundance and activity of terrestrial salamanders". Ecological Applications, 14(6), 1882-1891.
+Mi, S. J., Li, Y. T., Wang, F., Li, L., Ge, Y., Luo, L. ve Chen, J. B. 2017. "A research on monitoring surface deformation and relationships with surface parameters in Qinghai Tibetan Plateau permafrost". The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 42, 629-633.
+Murphy, G. ve Wing, M. G. 2005. "Road sediment yields from dispersed versus clustered forest harvesting activity: a case study". International Journal of Forest Engineering, 16(2), 65-72.
+Nagendra, H., Southworth, J. ve Tucker, C. 2003. "Accessibility as a determinant of landscape transformation in western Honduras: linking pattern and process". Landscape Ecology, 18, 141-158.
+Neece, B. D., Loeb, S. C. ve Jachowski, D. S. 2018. "Variation in regional and landscape effects on occupancy of temperate bats in the southeastern". US PLoS One, 13(11), 0206857.
+Negrín, Z. ve Arévalo, J. 2016. "Tree species composition and structure near road borders in the laurel forest of anaga (tenerife – islas canarias". Bulletin of University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca Agriculture, 73(2), 145.
+Ning, Y., Liu, Z., Ze-kui, N. ve Zhang, H. 2018. "Measuring eco-efficiency of state-owned forestry enterprises in northeast china". Forests, 9(8), 455.
+Noon, C. E. 2004. "Operations management". Encyclopedia of Health Care Management.
+Obi, O. F. ve Visser, R. 2017. "Operational efficiency analysis of New Zealand timber harvesting contractors using data envelopment analysis". International Journal of Forest Engineering, 28(2), 85-93.
+OGM-1, 2022. Orman Genel Müdürlüğü, “Orman Genel Müdürlüğü Stratejik Plan (2019-2023)”.https://www.ogm.gov.tr/tr/e-kutuphane-sitesi/StratejikPlan/Orman%20Genel%20M%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC%20Stratejik%20Plan%20(2019-2023.pdf, Son erişim tarihi: 01 Kasım 2023.
+OGM-2, 2022. Orman Genel Müdürlüğü, “Ormancılık İstatistikleri 2022”. https://www.ogm.gov.tr/tr/e-kutuphane-sitesi/Istatistikler/Ormanc%C4%B1l%C4%B1k%20%C4%B0statistikleri/Ormanc%C4%B1l%C4%B1k%20%C4%B0statistikleri%202022.zip, Son erişim tarihi: 01 Kasım 2023.
+OGM-3, 2022. Orman Genel Müdürlüğü, “Orman Genel Müdürlüğü 2022 Yılı Faaliyet Raporu”.https://www.ogm.gov.tr/tr/e-kutuphane-sitesi/FaaliyetRaporu/Orman%20Genel%20M%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC%202022%20Y%C4%B1l%C4%B1%20Faaliyet%20Raporu.pdf, Son erişim tarihi: 01 Kasım 2023.
+OGM-4, 2007. Orman Genel Müdürlüğü, “Orman Yolları Planlaması, Yapımı ve Bakımı Tebliğ, Tebliğ No: 292”. https://www.ogm.gov.tr/tr/e-kutuphane-sitesi/mevzuat-sitesi/Tebligler/Orman%20Yollar%C4%B1%20Planlamas%C4%B1,%20Yap%C4%B1m%C4%B1%20ve%20Bak%C4%B1m%C4%B1%20(292%20Say%C4%B1l%C4%B1%20Tebli%C4%9F.pdf, Son erişim tarihi: 01 Kasım 2023.
+OGM-5, 2022. Orman Genel Müdürlüğü, “Maçka Orman İşletme Şefliği Amenajman Planı”
+Onaran, S. 2006. "Veri Zarflama Analizi Kullanılarak Üniversite Kütüphanelerinin Performanslarının Değerlendirilmesi". Ankara: Yüksek Lisans Tezi, Gazi Üniversitesi, Fen Bilimleri Enstitüsü.
+Oruç, K. O. 2008. "Veri Zarflama Analizi ile Bulanık Ortamda Etkinlik Ölçümleri ve Üniversitelerde Bir Uygulama, Doktora Tezi, Süleyman Demirel Üniversitesi, Sosyal Bilimler Enstitüsü, İsparta".
+Özkan, A. ve Inaç, S. 2017. "Review on rehabilition of burning areas and fire resistant forests project in karaisali forest management directorate". Turkish Journal of Forest Science, 1(1), 59-74.
+Öztürk. 2020. "Temporal Change of Drainage Structures in Forest Roads (Study of Bentler Forest Enterprise 2009-2019". European Journal of Forest Engineering.
+Öztürk, A. 2003. "Devlet Orman İşletmelerinde İşletme Amaç ve Stratejilerinin Belirlenmesi: Doğu Karadeniz Bölgesi Örneği". Trabzon: Doktora Tezi, Karadeniz Teknik Üniversitesi, Fen Bilimleri Enstitüsü.
+Öztürk, G. ve Engindeniz, S. 2018. "Muğla’da Örtüaltı Domates Üretiminde Girdi Kullanım Etkinliğinin Analizi". Tarım Ekonomisi Dergisi, 24(2), 175-183.
+Öztürk, T., Doğan, H. ve Başar, O. 2022. "Orman yolunda uygulanan yeni tip çelik köprü (vize orman i̇şletme müdürlüğü örneği". Bartın Orman Fakültesi Dergisi, 24(1), 13-24.
+Özyiğit, T., Serarslan, M. N. ve K., ve E.E. 2008. "Türkiye’de Elektrik Üretimi İçin Enerji Kaynaklarının Etkinliğinin Değerlendirilmesi".
+Paradi, J. C. ve Schaffnit, C. 2004. "Commercial Branch Performance Evaluation And Results Communication in A Canadian Bank - A Dea Application". European Journal of Operational Research, 156, 3(3), 719-735.
+Pauchard, A. ve Alaback, P. 2004. "Influence of elevation, land use, and landscape context on patterns of alien plant invasions along roadsides in protected areas of south‐central chile". Conservation Biology, 18(1), 238-248.
+Pérez-Martínez, P. ve Vassallo, J. 2013. "Changes in the external costs of freight surface transport in spain". Research in Transportation Economics, 42(1), 61-76.
+Peyrov, S., Najafi, A. ve Nourodini, A. R. 2016. "Predicting the earthwork width and determining the annual growth loss due to forest road construction using artificial neural network and ArcGIS". Journal of Forest Science, 62(7), 337-344.
+Poor, E. E., Jati, V. I. M., Imron, M. A. ve Kelly, M. J. 2019. "The road to deforestation: edge effects in an endemic ecosystem in sumatra, indonesia". Plos One, 14(7), 0217540.
+Prendes, C., Buján, S., Ordóñez, C. ve Canga, E. 2019. "Large scale semi-automatic detection of forest roads from low density lidar data on steep terrain in northern spain". Iforest - Biogeosciences and Forestry, 12(4), 366-374.
+Prentkovskis, O., Tretjakovas, J., Švedas, A., Bieliatynskyi, A., Daniūnas, A. ve Krayushkina, K. 2012. "The analysis of the deformation state of the double-wave guardrail mounted on bridges and viaducts of the motor roads in lithuania and ukraine". Journal of Civil Engineering and Management, 18(5), 761-771.
+Rahbarisisakht, S., Moayeri, M., Hayati, E., Sadeghi, S., Kepfer-Rojas, S., Pahlavani, M. ve Borz, S. 2021. "Changes in soil’s chemical and biochemical properties induced by road geometry in the hyrcanian temperate forests". Forests, 12(12), 1805.
+Ratkevičiūtė, K. 2010. "Model for the substantiation of road safety improvement measures on the roads of Lithuania". The Baltic Journal of Road and Bridge Engineering, 5(2), 116-123.
+Rich, A., Dobkin, D. ve Niles, L. 1994. "Defining forest fragmentation by corridor width: the influence of narrow forest‐dividing corridors on forest‐nesting birds in southern new jersey". Conservation Biology, 8(4), 1109-1121.
+Rybaczewska-Błażejowska, M. ve Masternak-Janus, A. 2018. "Eco-efficiency assessment of Polish regions: Joint application of life cycle assessment and data envelopment analysis". Journal of Cleaner Production, 172, 1180-1192.
+Saad, ِa., Saad, S. ve obada,  omayma. 2023. "GIS-based suitability analysis for Solar Homestead Sites (Case Study: Sheikh Zayed Area, 6th Of October City in Egypt". Engineering Research Journal - Faculty of Engineering (Shoubra), 52(1), 142-149.
+Saklaurs, M. ve Baltmanis, R. 2014. "The effect of roads on the movement of large and mid-sized mammals". Environmental and Climate Technologies, 14(1), 23-29.
+Seçkin, Ö. 1984. "Türkiye’de orman yol şebeke planlarının düzenlenmesi ve etüd aplikasyonu". Journal of the Faculty of Forestry Istanbul University, 34(1), 112-125.
+Seif, E. ve Bahabri, A. 2019. "Rockfall hazards assessment along the aswan–cairo highway, sohag governorate, upper egypt". Natural Hazards, 99(2), 991-1005.
+Semlitsch, R., Ryan, T., Hamed, K., Chatfield, M., Drehman, B., Pekarek, N. ve Watland, A. 2006. "Salamander abundance along road edges and within abandoned logging roads in appalachian forests". Conservation Biology, 21(1), 159-167.
+Sessions, J. 2007. "Forest Road Operations in the Tropics". Berlin, Heidelberg, New York: Springer-Verlag.
+Shiba, M. 1997. "Measuring the Effıciency on Managerial and Technical Performances in Forestry Activities by Means of Data Envelopment Analysis (DEA". Journal of Forest Engineering, 8,1, 7-19.
+Soulis, K., Dercas, N. ve Papadaki, C. 2014. "Effects of forest roads on the hydrological response of a small‐scale mountain watershed in greece". Hydrological Processes, 29(7), 1772-1782.
+Spellerberg, I. 1998. "Ecological effects of roads and traffic: a literature review". Global Ecology and Biogeography, 7(5), 317-333.
+Stefanović, B., Stojnić, D. ve Danilović, M. 2016. "Multi-criteria forest road network planning in fire-prone environment: a case study in Serbia". Journal of Environmental Planning and Management, 59(5), 911-926.
+Storeygard, A. 2016. "Farther on down the road: transport costs, trade and urban growth in sub-saharan africa". The Review of Economic Studies, 83(3), 1263-1295.
+Strange, N., Bogetoft, P., Aalmo, G. O., Talbot, B., Holt, A. H. ve Astrup, R. 2021. "Applications of dea and sfa in benchmarking studies in forestry: state-of-the-art and future directions". International Journal of Forest Engineering, 32(sup1), 87-96.
+Stückelberger, J. A., Heinimann, H. R. ve Burlet, E. C. 2006. "Modeling spatial variability in the life-cycle costs of low-volume forest roads". European Journal of Forest Research, 125, 377-390.
+Suharyanto, A. 2021. "Estimating flood inundation depth along the arterial road based on the rainfall intensity". Civil and Environmental Engineering, 17(1), 66-81.
+Şafak, İ., Altay, G. Ü. L., Akkaş, M., Portakal, S. Ü., Gediklili, M. ve Kanat, Ş. M. 2013. "Efficiency Determination of the Forest Sub-Districts By Using Fuzzy Data Envelopment Analysis (Case Study: İzmir Forest Regional Directorate". Eurasian Journal of Forest Science, 1(1), 1-19.
+Şahin, İ. E. ve Akkoyuncu, H. 2019. "Türk sigortacılık sektöründe faaliyet gösteren hayat dışı sigorta şirketlerinin etkinlik analizi". Selçuk Üniversitesi Sosyal Bilimler Meslek Yüksekokulu Dergisi, 22(2), 840-852.
+T. C. Resmi Gazete. 2008. "Ekosistem Tabanlı Fonksiyonel Orman Amenajman Yönetmeliği, Türkiye Cumhuriyeti Resmi Gazetesi".
+Tabak Aydın, H. ve Kara, O. 2022. "Reklam harcamalarının ticari bankaların rekabet gücüne etkisi: bootstrap tahminli veri zarflama analizi". İzmir İktisat Dergisi, 37(2), 501-521.
+Tahir, M., Annas, C., Mufid, M. R., Yunanto, A. A., Kurniasari, A. A. ve Shofyan, A. 2022. "Geographic Information System of Fish Farmers Location in Tulungagung District Using Leaflet". Içinde Proceedings of the International Conference on Applied Science and Technology on Social Science 2022 (iCAST-SS 2022) (ss. 681-685). Atlantis Press.
+Tarım, S. A. ve Karan, M. B. 2001. "Investment fund performance measurement using weight-restricted data envelopment analysis: An application to the Turkish capital market". Russian & East European Finance and Trade, 37(5), 64-84.
+Tavşanoğlu, F. 1973. "Orman yol şebekelerinin planlanması, orman yollarının yapımı ve ormandaki taşıma ile ilgili bazı önemli ve pratik konular". Journal of the Faculty of Forestry Istanbul University, 26(2), 27-49.
+Tezcan, B. ve Eren, T. 2022. "Orman yangınına sebep olan kriterlerin bulanık ortamda değerlendirilmesi". Politeknik Dergisi, 1-1.
+Thomas, R. ve Megahan, W. 1998. "Peak flow responses to clear‐cutting and roads in small and large basins, western cascades, oregon: a second opinion". Water Resources Research, 34(12), 3393-3403.
+Thompson, M., Gannon, B. ve Caggiano, M. 2021. "Forest roads and operational wildfire response planning". Forests, 12(2), 110.
+Tokmanoğlu, T. 1974. "Düzenli ormancılık yönünden orman köy ilişkilerinin doğurduğu sorunlar ve çözüm yolları". Journal of the Faculty of Forestry Istanbul University, 113-118.
+Toma, P., Miglietta, P. P., Morrone, D. ve Porrini, D. 2020. "Environmental risks and efficiency performances: the vulnerability of italian forestry firms". Corporate Social Responsibility and Environmental Management, 27(6), 2793-2803.
+Trombulak, S. C. ve Frissell, C. A. 2000. "Review of ecological effects of roads on terrestrial and aquatic communities". Conservation biology, 14(1), 18-30.
+Türk, Y., Aydın, A. ve Eker, R. 2022. "Comparison of Autonomous and Manual UAV Flights in Determining Forest Road Surface Deformations". European Journal of Forest Engineering, 8(2), 77-84.
+Türker, P. M., M. F. ve Öztürk, A. 2005. Içinde M. Merlo & L. Croitoru (Ed.), Valuing Mediterrenean Forests: Towards Total Economic Value (s. 406). Turkey: CABI Publishing.
+URL-1. 2023, Ocak 9. "Çalışmanın Online Haritası" [Codepage]. Geliş tarihi 09 Ocak 2023, gönderen https://github.com/ArresT-AnarchY/Arcpy-VZA-Forest-Roads
+URL-2. 2023, Ocak 9. "Çalışmanın kod döküman websitesi" [Online Map]. Geliş tarihi 09 Ocak 2023, gönderen https://tahayasin.com/VZA_DEA/
+Ünver, S. 2013. "Orman Yollarında Puanlandırma Yöntemiyle Yol Kalite Sınıflarının Belirlenmesi: Karanlıkdere Örneği".
+Vatandaşlar, C. ve Demir, M. 2015. "Orman yollarının doğal afetlerde acil ulaşım yolu olarak kullanım olanakları". İstanbul Üniversitesi Orman Fakültesi Dergisi, 66(2), 369.
+Viitala, E. J. ve H. ve H. 1998. "Measuring the Effıciency of Public Forestry Organizations". Forest Science, 44, 2, 298-307.
+Votsi, N., Mazaris, A., Kallimanis, A., Zomeni, M., Vogiatzakis, I., Sgardelis, S. ve Pantis, J. 2012. "Road effects on habitat richness of the greek natura 2000 network". Nature Conservation, 1, 53-71.
+Walker, R., Arima, E., Messina, J., Soares-Filho, B., Perz, S., Vergara, D. ve Castro, W. 2013. "Modeling spatial decisions with graph theory: logging roads and forest fragmentation in the Brazilian Amazon". Ecological Applications, 23(1), 239-254.
+Wemple, B., Jones, J. ve Grant, G. 1996. "Channel network extension by logging roads in two basins, western cascades, oregon1". Jawra Journal of the American Water Resources Association, 32(6), 1195-1207.
+Xie, S., Ji, X., Yang, W., Fang, R. ve Hao, J. 2020. "Exploring risk factors with crash severity on china two-lane rural roads using a random-parameter ordered probit model". Journal of Advanced Transportation, 1-14.
+Yaman, Y. ve Keleş, S. 2023. "Orman ağaçlarında depolanan karbon miktarının konumsal ve zamansal değişiminin analiz edilmesi: alara planlama birimi örneği". Anadolu Orman Araştırmaları Dergisi, 9(1), 28-41.
+Yapıcı, A. ve Solmaz, Ö. 2019. "Efficiency and technical analysis of the turkish national team in 2017 women’s european volleyball championship&lt;p&gt;2017 kadınlar avrupa voleybol şampiyonasına katılan türk milli takımının teknik ve etkinlik analizi". Journal of Human Sciences, 15(4), 2568.
+Yaşa, A. 2008. "Bankacılık Sektöründe Etkinlik ve Veri Zarflama Analizi Yöntemi İle Ölçülmesi, Yüksek Lisans Tezi, Ankara Üniversitesi, Sosyal Bilimler Enstitüsü". Ankara. 
+Yao, D., Van der Hoorn, P. ve Litvak, N. 2018. "Average nearest neighbor degrees in scale-free networks", Internet Math. 2018, 1–38 (2018).
+Yılmaz, E. 2016. "Yanan orman alanlarının rehabilitasyonu ve yangına dirençli ormanlar tesisi projesi (yardop) üzerine bir inceleme". Ormancılık Araştırma Dergisi, 1(3 A), 14.
+Yiğit, V. ve Esen, H. 2017. "Pabon Lasso modeli ve veri zarflama analizi ile hastanelerde performans ölçümü". Süleyman Demirel Üniversitesi Sağlık Bilimleri Dergisi, 8(2), 26-32.
+Yin, R. 1998. "DEA: A New Methodology for Evaluating The Performance of Forest Products Producers". Forest Products Journal, 48,1, 29-34.
+Yolalan, R. 1993. "İşletmeler arası Göreli Etkinlik Ölçümü, Milli Prodüktivite Yayınları No:483, Ankara".
+Zadmirzaei, M., Mohammadi Limaei, S., Olsson, L. ve Amirteimoori, A. 2016. "Measuring the performance and returns to scale of forest management plans using data envelopment analysis approach (Case study; Iranian Caspian forests". Caspian Journal of Environmental Sciences, 14(2), 155-164.
+Zápotocký, V. ve Koreň, M. 2022. "Online shareable mapping in forestry". Forests, 13(2), 210.
+Zare, N., Hosseini, S. A. O., Hafizi, M. K., Najafi, A., Majnounian, B. ve Geertsema, M. 2021. "A Comparison of an adaptive neuro-fuzzy and frequency ratio model to landslide-susceptibility mapping along forest road networks". Forests, 12(8), 1087.
+Zeng, S. ve Liao, W. 2016. "A decision optimization model for forest resources management based on GIS". Journal of Forestry Research, 27(6), 1355-1364.
+Zeng, S., Liu, R., Ya, Z. ve He, X. 2021. "Research on provincial forestry investment efficiency in china". Advances in Management and Applied Economics, 1-28.
+Zhang, X., Zhou, J., Sun, S., Sun, R. ve Qin, M. 2015. "Numerical investigation of low NOx combustion strategies in tangentially-fired coal boilers". Fuel, 142, 215-221.
+Zhou, T., Luo, X., Hou, Y., Xiang, Y. ve Shaolin, P. 2019. "Quantifying the effects of road width on roadside vegetation and soil conditions in forests". Landscape Ecology, 35(1), 69-81.
+Zou, Y., Zhang, Y. ve Cheng, K. 2021. "Exploring the impact of climate and extreme weather on fatal traffic accidents". Sustainability, 13(1), 390.
+
