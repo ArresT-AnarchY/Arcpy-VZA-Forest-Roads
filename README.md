@@ -102,7 +102,7 @@ Bu sistem Arcmap10.8 ile test edilmiştir.
 
 **Program:** ArcGIS 10.8, ArcMap 10.8, ArcCatalog 10.8, Spyder 5.4.3
 
-**Language:** Python 2.7
+**Programlama Dili:** Python 2.7
 
 **Modül:** arcpy, scipy 0.17.0, matplotlib 1.5.2, numpy 1.9.3, pandas 0.18.1
 
