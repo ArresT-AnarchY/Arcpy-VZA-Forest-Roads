@@ -22,8 +22,10 @@ Bu sistem Arcmap10.8 ile test edilmiştir.
 2. Arcmap açılır.
 3. ArcCatalog içerisinden .tbx uzantılı dosya açılır. 
 4. Kurulum gerektiren modüller ilk ve son modüllerdir. Bu nedenle, İlk veya son modüle sağ tıklanır ve properties seçilir. Çıkan ekranda script file kısmında dosyalarda bulunan script dosyaları seçilir.
+
 Örnek:
 ![Screenshot of Module](https://tahayasin.com/VZA_DEA/kurulum.jpg)
+
 5. Ardından B sekmesinden başlamak üzere, tüm girdi ve çıktı değişkenlerin hesaplama kısmı için modüller çalıştırılır.
 6. En son aşamada yeniden script file tanımlaması yapılır ve Direkt veri zarflama analizine geçilir.
 
