@@ -1,13 +1,17 @@
 # Orman Yollarının Fonksiyonel Duruma Bağlı Etkinlik Skorunun Belirlenmesi
 Bu çalışma, 122O785 kodlu TÜBİTAK projesinin katkılarıyla hazırlanmıştır.
 
-Bu çalışmada, orman yolları ile orman varlığı arasındaki ilişki ve sistematik bir ağ olan orman yollarının birbirleri ile olan ilişkileri incelenmiştir. Kamu kaynakları kullanılarak planlanan ve inşa edilen orman yollarının farklı girdi ve farklı çıktılar kullanılarak Veri Zarflama Analizi ile etkinliklerinin ölçülmesi amaçlanmıştır. Bu planlama ve yapım sürecinin etkin ve verimli olarak kullanımı hedeflenmektedir. Bu etkinlik skorlarının değerlendirilmesi ile mevcut orman yollarının daha sağlıklı hale getirilmesi konusunda çalışmalar güncel tutulacaktır. Ayrıca, plancılar için kılavuz niteliğinde bir paket program ortaya konarak, programlama tabanlı olarak GIS aplikasyonları için Python programlama ile program modülü oluşturulmuştur. github
+Bu çalışmada, orman yolları ile orman varlığı arasındaki ilişki ve sistematik bir ağ olan orman yollarının birbirleri ile olan ilişkileri incelenmiştir. Kamu kaynakları kullanılarak planlanan ve inşa edilen orman yollarının farklı girdi ve farklı çıktılar kullanılarak Veri Zarflama Analizi ile etkinliklerinin ölçülmesi amaçlanmıştır. Bu planlama ve yapım sürecinin etkin ve verimli olarak kullanımı hedeflenmektedir. Bu etkinlik skorlarının değerlendirilmesi ile mevcut orman yollarının daha sağlıklı hale getirilmesi konusunda çalışmalar güncel tutulacaktır. Ayrıca, plancılar için kılavuz niteliğinde bir paket program ortaya konarak, programlama tabanlı olarak GIS aplikasyonları için Python programlama ile program modülü oluşturulmuştur.
 
 Orman yolları, 292 sayılı Orman Yolları Planlaması, Yapımı ve Bakımı tebliğinde yer alan teknik ve geometrik standartlara göre planlanmakta ve yapılmaktadır. Odun üretimi fonksiyonuna bağlı olarak planlanan ve inşa edilen orman yolları, bu çalışma sonucunda farklı orman fonksiyonlarına göre değerlendirilebilecektir. Kamu kaynaklarının daha tutarlı kullanımının önünü açabilecek öncü bir model olacaktır.
+
 # Dosyaların tasarımı
 İçerikte bulunan dosyaların tanıtımı:
+
 **Arcpy GIS model:** Bu dosya içerisinde ArcMap için kullanılabilecek dosyalar bulunmaktadır.
+
 **Online Map:** Bu dosya içerisinde çalışma kapsamında Online harita dosyaları bulunmaktadır.
+
 **Sample data:** Bu dosya içerisinde örnek veriler bulunmaktadır.  
 
 
