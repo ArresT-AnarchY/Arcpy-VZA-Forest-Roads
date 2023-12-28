@@ -20,8 +20,8 @@ Bu sistem Arcmap10.8 ile test edilmiştir.
 
 1. Arcpy GIS model dosyası içerisinde herhangi bir senaryo verilerine giriş yapılır.
 2. Arcmap açılır.
-3. ArcCatalog içerisinden tbx uzantılı dosya açılır. 
-4. İlk ve son modüle sağ tıklanır ve properties seçilir. Çıkan ekranda script file kısmında dosyalarda bulunan script dosyaları seçilir.
+3. ArcCatalog içerisinden .tbx uzantılı dosya açılır. 
+4. Kurulum gerektiren modüller ilk ve son modüllerdir. Bu nedenle, İlk veya son modüle sağ tıklanır ve properties seçilir. Çıkan ekranda script file kısmında dosyalarda bulunan script dosyaları seçilir.
 Örnek:
 ![Screenshot of Module](https://tahayasin.com/VZA_DEA/kurulum.jpg)
 5. Ardından B sekmesinden başlamak üzere, tüm girdi ve çıktı değişkenlerin hesaplama kısmı için modüller çalıştırılır.
