@@ -33,18 +33,15 @@ Bu sistem Arcmap10.8 ile test edilmiştir.
 
 | **DEĞİŞKEN**                                            | **GİRDİ/ÇIKTI** |
 | ------------------------------------------------------- | --------------- |
-|Yol uzunluğu|Girdi|
-|Yolun akarsu yataklarını kesme sıklığı/sayısı-oranı|Girdi|
-|Sanat yapısı sayısı ve uygunluğu|Girdi|
-|Bakı|Girdi|
-|Yolun geçtiği yamaç eğimi|Girdi|
-|Yolun eğimi|Girdi|
-|Yol genişliği|Girdi|
-|Kazı şevi yüksekliği|Girdi|
-|İşletmeye açılan alan|Girdi|
-|Yol boyunca gözlenen şev akıntı ve heyelanlı alan sayısı|Girdi|
-|Doğa Koruma|Çıktı|
-|Yolun bağlantı sağladığı alanlar|Çıktı|     
+| Yolun Bakısı											  |	Girdi			|
+| Yolun geçtiği yamaç eğimi								  | Girdi			|
+| Yol genişliği											  |	Girdi			|
+| Kazı şevi yüksekliği									  |	Girdi			|
+| Kayıp orman alanı										  | Girdi			|
+| Yol boyunca gözlenen akıntı ve heyelanlı alan sayısı    | Girdi			|
+| Yolun akarsu yataklarına uzaklığı						  | Çıktı			|
+| Potansiyel sanat yapısı								  | Çıktı			|
+| Yolun bağlantı sağladığı alanlar						  | Çıktı			|     
 
 # Ekonomik senaryo değişkenler
 
@@ -52,25 +49,28 @@ Bu sistem Arcmap10.8 ile test edilmiştir.
 | ------------------------------------------------------- | --------------- |
 | Yolun Bakısı                                            | Girdi           |
 | Yamaç eğimi                                             | Girdi           |
-| Yol sanat yapılarının yapılmış olması                   | Girdi           |
 | İnşaat alanı genişliği                                  | Girdi           |
+| Potansiyel sanat yapısı								  | Girdi			|
 | Kıvrımlılık faktörü                                     | Girdi           |
 | Dolambaçlılık faktörü                                   | Girdi           |
 | Yatay kurpların yoğunluğu                               | Girdi           |
 | Yol yüzeyindeki deformasyonlar                          | Girdi           |
+| Ortalama yol aralık mesafesi							  | Çıktı           |
 | Yol uzunluğu ve işletmeye açılan alan ((İAA/YU\*500 m)) | Çıktı           |
 | Ekonomik fonksiyonlu ormandan geçen orman yolları       | Çıktı           |
+| Emval miktarı											  | Çıktı           |
 
 # Sosyal senaryo değişkenler
 
 | **DEĞİŞKEN**                                            | **Girdi/Çıktı** |
 | ------------------------------------------------------- | --------------- |
+| Yol eğimi                                               | Girdi           |
 | Yol uzunluğu                                            | Girdi           |
 | Yolun düz ve kurplu yapı kompozisyonu (dolambaçlılık)   | Girdi           |
 | İnşaat alanı genişliği ve kayıp orman alanı             | Girdi           |
-| Yol Eğimi                                               | Girdi           |
 | Estetik amaçlı yol koruma ormanına geçme                | Çıktı           |
 | Ziraat ve mera alanlarına ulaşım                        | Çıktı           |
+| Hizmet Süresi						                      | Çıktı           |
 | Kazı şevlerinin yeşillenmiş (vejetasyonla kaplı) olması | Çıktı           |
 | Çevresindeki köylerin nüfus miktarı                     | Çıktı           |
 
@@ -79,18 +79,15 @@ Bu sistem Arcmap10.8 ile test edilmiştir.
 
 | **DEĞİŞKEN**                                | **Girdi/Çıktı** |
 | ------------------------------------------- | --------------- |
-| Yol Eğimi                                   | Girdi           |
-| Heyelan ve göçükler                         | Girdi           |
+| Yol deformasyon yoğunluğu                   | Girdi           |
 | Yolun Bakısı                                | Girdi           |
 | Platform genişliği                          | Girdi           |
+| Karşılaşma ve Duraklama yeri                | Girdi           |
 | Banket genişliği                            | Girdi           |
 | Hendek genişliği                            | Girdi           |
-| Ağaçların yol platformuna (yatay) yakınlığı | Girdi           |
-| Karşılaşma ve Duraklama yeri                | Çıktı           |
-| Sanat yapıları                              | Çıktı           |
+| Ortalama yol aralık mesafesi				  | Çıktı           |
 | Yolun bağlantı sağladığı bölmeler           | Çıktı           |
 | İşletmeye açtığı meşcere alanı              | Çıktı           |
-| Taşınacak emval miktarı (292 sayılı tebliğ) | Çıktı           |
 
 
 ## Lisans
